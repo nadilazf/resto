@@ -49,12 +49,12 @@
                 <input type="number" name="jumlah" value="1" class="form-control border" placeholder="Jumlah" style="padding-left: 8px">
             </div>
         </div>
-        <div class="col-xs-12 col-sm12 col-md-12">
+        {{-- <div class="col-xs-12 col-sm12 col-md-12">
             <div class="form-group">
                 <strong>Total Harga :</strong>
                 <input type="number" name="Total Harga" class="form-control border" placeholder="Total Harga" style="padding-left: 8px">
             </div>
-        </div>
+        </div> --}}
         <div class="col-xs-12 col-sm-12 col-md-12 text-center">
             <button type="sumbit" class="btn btn-primary">Submit</button>
         </div>
